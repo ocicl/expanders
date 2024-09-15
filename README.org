@@ -1,0 +1,9 @@
+* expanders
+
+Expanders for Common Lisp
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/HectareaGalbis/expanders.git |
+| commit  | bb7c623                                                    |
+| systems | expanders                                           |
+|---------+-----------------------------------------------------|
