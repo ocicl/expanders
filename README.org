@@ -4,6 +4,7 @@ Expanders for Common Lisp
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/HectareaGalbis/expanders.git |
-| commit  | bb7c623                                                    |
+| commit  | 5b24056                                             |
 | systems | expanders                                           |
 |---------+-----------------------------------------------------|
+-----|
